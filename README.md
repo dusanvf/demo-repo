@@ -8,10 +8,6 @@ Interesting development
 
 Let's keep going !!
 
-## Subheader 2
+## Local Development
 
-Just testing, right?
-
-### well maybe
-
-Or not???
+1. Open index.html in your browser
