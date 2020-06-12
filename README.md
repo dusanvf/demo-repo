@@ -12,3 +12,4 @@ Let's keep going !!
 
 1. Open index.html in your browser now!
 2. Eat the rich
+3. Burn it down
